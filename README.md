@@ -382,9 +382,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙋‍♂️ Support
 
-- 📧 Email: support@docsum.com
-- 💬 Discord: [Join our community](https://discord.gg/docsum)
-- 📚 Documentation: [Full Documentation](https://docs.docsum.com)
+- 📧 Email: 
+- 💬 Discord: 
+- 📚 Documentation:
 
 ## 🌟 Star History
 
