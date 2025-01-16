@@ -1,0 +1,68 @@
+# Environment variables
+.env
+.env.*
+!.env.template
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+.env/
+
+# Logs
+*.log
+app.log*
+logs/
+*.log.*
+
+# ChromaDB
+.chroma/
+chroma_db/
+embeddings/
+
+# Cache and temporary files
+.cache/
+temp_uploads/
+.pytest_cache/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+temp_*
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store  # MacOS
+Thumbs.db  # Windows

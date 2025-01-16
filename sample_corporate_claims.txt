@@ -1,0 +1,67 @@
+Corporate Insurance Claim Handling Process Guide
+
+1. Initial Claim Notification
+When an incident occurs, the corporate client must immediately notify their designated insurance representative. This notification should include:
+- Date and time of the incident
+- Brief description of what occurred
+- Preliminary assessment of damages
+- Contact information of all involved parties
+- Any immediate actions taken to mitigate losses
+
+2. Claim Registration and Assignment
+Upon receiving the notification, the insurance company:
+- Assigns a unique claim reference number
+- Designates a senior claims adjuster
+- Creates a digital case file
+- Acknowledges receipt within 24 hours
+- Initiates the coverage verification process
+
+3. Assessment and Investigation
+The claims team conducts a thorough investigation:
+- Reviews policy terms and coverage limits
+- Collects relevant documentation (photos, reports, witness statements)
+- Engages specialized experts if needed (engineers, accountants)
+- Evaluates business interruption impact
+- Determines liability and coverage applicability
+
+4. Loss Evaluation
+The adjustment team:
+- Calculates direct material damages
+- Assesses business interruption losses
+- Evaluates third-party liability claims
+- Considers depreciation and deductibles
+- Reviews repair or replacement options
+
+5. Settlement Proposal
+The insurance company:
+- Prepares a detailed settlement report
+- Explains the basis for the settlement amount
+- Reviews any applicable deductibles or policy limits
+- Presents the proposal to the corporate client
+- Negotiates terms if necessary
+
+6. Payment and Resolution
+Once settlement is agreed:
+- Final documentation is prepared
+- Release forms are signed
+- Payment is processed within agreed timeframes
+- Claim file is updated and archived
+- Post-claim risk assessment is conducted
+
+7. Risk Management Recommendations
+The insurance company provides:
+- Analysis of incident causes
+- Suggestions for preventing similar incidents
+- Updates to risk management protocols
+- Review of current coverage adequacy
+- Recommendations for policy adjustments
+
+8. Claim Closure
+Final steps include:
+- Confirming all payments have been made
+- Ensuring all documentation is complete
+- Updating claims history
+- Closing the digital case file
+- Scheduling follow-up risk assessment if needed
+
+This standardized process ensures efficient, fair, and transparent handling of corporate insurance claims while maintaining regulatory compliance and customer satisfaction. 
